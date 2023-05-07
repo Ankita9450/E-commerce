@@ -1,0 +1,22 @@
+
+header {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  header .header__logo {
+    width: 20rem;
+    animation: rotate 2s linear infinite;
+
+  }
+  
+  /* @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */
